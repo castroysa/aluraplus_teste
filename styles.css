@@ -162,7 +162,7 @@ margin-bottom: 1em;
     color: var(--cor-de-fundo);
 }
 
-@media screen and (max-width: 768pv) {
+@media screen and (max-width: 768px) {
 .container{
    display: block;
    background-image: none;
